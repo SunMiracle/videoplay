@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>s
 <!DOCTYPE html>
 <html lang="ch">
 <head>
@@ -16,7 +16,7 @@
 			console.log("加载时间:".concat(loadTime));
 		}
     </script>
-</head>
+</head>ss
 <body id="body">
 	<script type="text/javascript">
 		var loading_window = function( key , str ){
